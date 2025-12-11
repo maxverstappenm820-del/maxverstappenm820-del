@@ -1,7 +1,4 @@
 <!-- Banner -->
-<p align="center">
-  <img src="" width="120"/>
-</p>
 
 <h1 align="center">Hi, I'm Omar Mohammed 👋</h1>
 <h3 align="center">Aspiring Data Scientist | Python Developer | Machine Learning Enthusiast</h3>
