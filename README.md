@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://img.icons8.com/?size=512&id=23264&format=png" width="120"/>
+  <img src="https://raw.githubusercontent.com/maxverstappenm820-del/maxverstappenm820-del/main/assets/profile_banner.jpeg" width="120"/>
 </p>
 
 <h1 align="center">Hi, I'm Omar Mohammed 👋</h1>
@@ -132,3 +132,5 @@ Replace USERNAME with your GitHub username.
 🌐 Connect With Me
 <p align="center"> <a href="https://linkedin.com/in/omar-eprahim-9b0a3a38a"><img src="https://img.icons8.com/color/32/000000/linkedin.png"/></a> </p>
 <p align="center">⭐️ Always learning. Always improving.</p> ```
+
+
