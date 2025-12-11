@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maxverstappenm820-del/maxverstappenm820-del/main/assets/profile_banner.jpeg" width="120"/>
+  <img src="" width="120"/>
 </p>
 
 <h1 align="center">Hi, I'm Omar Mohammed 👋</h1>
