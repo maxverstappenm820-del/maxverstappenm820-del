@@ -1,52 +1,134 @@
-![Peek 2020-07-09 15-53](https://user-images.githubusercontent.com/7910856/87048834-84abea80-c1fc-11ea-9342-27b96a046ba4.gif)
-<h3 align="center">Data Engineer | Mentor @ <a href='https://udacity.com'>Udacity</a> | Applied ML Enthusiast | Technical Blogger | <a href='https://aws.amazon.com/developer/community/community-builders/'> AWS Community Builder</a></h3>
+<!-- Banner -->
+<p align="center">
+  <img src="https://img.icons8.com/?size=512&id=23264&format=png" width="120"/>
+</p>
 
-## I little bit about me
-
-🎓 &nbsp;I'm currently working towards an AWS Data Engineering Cert. \
-🌱 &nbsp;I'm on track with learning more about DataOps, MLOps, DevOps and Software Architecture.\
-✍️ &nbsp;In my free time, I enjoy hiking, open-sea swimming and spending time with family.\
-💬 &nbsp;Lets have a Meet or Zoom call, feel free to pick a slot on [Calendly](https://calendly.com/mmphego/30min) to talk with me.\
-✉️ &nbsp;You can drop me an email at mpho@mphomphego.co.za with a subject containing "GitHub: ..."! It will be a pleasure to talk with you!.\
-📄 &nbsp;Check my [now page](https://bit.ly/3Jxtwaw) to get to know me a little better.
-
----
-
-<p  align="center">
-  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
-  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/1-repos-per-language.svg">
-  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
-
-NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
-
----
-
-## Latest blog posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How I Simplified LLM Telemetry Using Dual-Destination Observability Without Performance Degradation](https://blog.mphomphego.co.za/blog/2025/12/08/How-I-Simplified-LLM-Telemetry-Using-Dual-Destination-Observability-Without-Performance-Degradation.html)
-- [How To Enforce SQL Code Quality Using SQLFluff, Pre-Commit And GitHub Actions](https://blog.mphomphego.co.za/blog/2024/10/11/How-to-Enforce-SQL-Code-Quality-using-SQLFluff-Pre-Commit-and-GitHub-Actions.html)
-- [How An EC2 Instance Became My Go-To Remote Development Solution Using Terraform](https://blog.mphomphego.co.za/blog/2024/08/18/How-An-EC2-Instance-Became-My-Go-To-Remote-Development-Solution.html)
-- [How To Automate Jira And Confluence Using Python](https://blog.mphomphego.co.za/blog/2024/05/22/How-to-automate-Jira-and-Confluence-using-Python.html)
-- [How To Connect To AWS Athena Using DBeaver Community Edition Via AWS SSO](https://blog.mphomphego.co.za/blog/2023/12/27/How-to-connect-to-AWS-Athena-using-DBeaver-Community-Edition-via-AWS-SSO.html)
-- [How To Verify Data Quality On Tables Landed On AWS Data Lake And Data Warehouse](https://blog.mphomphego.co.za/blog/2023/11/11/How-to-Verify-Data-Quality-on-Tables-Landed-on-AWS-Data-Lake-and-Data-Warehouse.html)
-- [How To Efficiently Extract Tables From MSSQL Server To A Data Lake](https://blog.mphomphego.co.za/blog/2023/08/02/How-to-Efficiently-Extract-Tables-from-MSSQL-Server-to-a-Data-Lake.html)
-- [Managing Jenkins Plugins](https://blog.mphomphego.co.za/blog/2022/06/24/Managing-Jenkins-Plugins.html)
-- [How I Setup Jenkins On Docker Container Using Ansible &lpar;Part 1&rpar;](https://blog.mphomphego.co.za/blog/2022/05/09/How-I-setup-Jenkins-on-Docker-container-using-Ansible-Part-1.html)
-- [How I Setup Jenkins On Docker Container Using Ansible &lpar;Part 2&rpar;](https://blog.mphomphego.co.za/blog/2022/05/09/How-I-setup-Jenkins-on-Docker-container-using-Ansible-Part-2.html)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## Links
+<h1 align="center">Hi, I'm Omar Mohammed 👋</h1>
+<h3 align="center">Aspiring Data Scientist | Python Developer | Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <a href="https://blog.mphomphego.co.za/"><img src="https://img.icons8.com/fluent/32/000000/domain.png" alt="darkwood"/></a>
-  <a href= "https://dev.to/mmphego"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
-  <a href="mailto:mpho@mphomphego.co.za"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/mphomphego"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="https://hub.docker.com/u/mmphego"><img src="https://img.icons8.com/color/32/000000/docker.png" alt="docker"/></a>
-  <a href="https://www.youtube.com/c/MphoMphego1?sub_confirmation=1"><img src="https://img.icons8.com/color/32/000000/youtube.png" alt="youtube"/></a>
-  <a href="https://twitter.com/mphomphego"><img src="https://img.icons8.com/color/32/000000/twitter-squared.png" alt="twitter"/></a>
-  <a href= "https://tiktok.com/@mph0.m"><img src="https://img.icons8.com/fluent/32/000000/tiktok.png"/></a>
+  <a href="https://linkedin.com/in/omar-eprahim-9b0a3a38a">
+    <img src="https://img.shields.io/badge/LinkedIn-Omar%20Mohammed-blue?style=flat-square&logo=linkedin" />
+  </a>
 </p>
+
+---
+
+## 🚀 About Me
+- 🎓 Student at **Faculty of Science – Mathematics Department**  
+- 🐍 Learning **Python**, **Data Science**, and **Machine Learning**  
+- 📊 Interested in **Data Visualization** and practical ML basics  
+- 🚀 Motivated, fast learner, and able to work under pressure  
+- 🌍 Fluent in English + currently learning German  
+- 💡 Passionate about self-learning and building mini projects  
+
+---
+
+## 🛠️ Skills & Tools
+
+### **Languages & Libraries**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-004369?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
+
+### **Other Skills**
+- Strong **Mathematics** background  
+- Problem-solving  
+- Self-learning  
+- Working under pressure  
+- Good communication  
+
+---
+
+## 📂 Featured Projects
+
+### 🔵 **1. F1 World Championships Bar Chart**
+```python
+import matplotlib.pyplot as plt 
+import numpy as np 
+
+drivers=["max verstappen", "lewis hamelton", "Michael Schumacher", "fernaldo alonso", "lando norris"] 
+champoin=[4, 7, 7, 2, 1]
+
+plt.bar(drivers, champoin, color="#4a1b1e")
+plt.title("F1 World Championships", fontsize=20, color="black")
+plt.xlabel("Drivers", fontsize=15)
+plt.ylabel("Number of Championships", fontsize=15)
+
+plt.show()
+🔵 2. Multi-Line Chart for Class Size Over the Years
+python
+Copy code
+import matplotlib.pyplot as plt 
+import numpy as np 
+
+x = np.array([2023, 2024, 2025, 2026])
+y1 = np.array([15, 25, 30, 20])
+y2 = np.array([17, 23, 38, 5])
+y3 = np.array([13, 15, 20, 30])
+
+plt.title("Class Size Over Years", fontsize=25, fontweight="bold")
+plt.xlabel("Year", fontsize=15, fontweight="bold")
+plt.ylabel("Students", fontsize=15, fontweight="bold")
+
+plt.plot(x, y1)
+plt.plot(x, y2)
+plt.plot(x, y3)
+
+plt.grid(axis="both", linewidth=1, linestyle="dashed")
+plt.show()
+🔵 3. Python Task Manager
+python
+Copy code
+tasks_input = input("Enter your tasks separated by commas:\n")
+tasks = tasks_input.split(", ")
+
+finished = []
+unfinished = []
+
+for task in tasks:
+    done = input(f"Did you finish {task}? (yes/no): ").lower()
+    if done == "yes":
+        finished.append(task)
+    elif done == "no":
+        unfinished.append(task)
+
+progress = input("Do you want to see your progress? (yes/no): ").lower()
+
+if progress == "yes":
+    print("Finished tasks:", finished)
+    print("Unfinished tasks:", unfinished)
+else:
+    print("Keep going!")
+🔵 4. Simple Shopping Basket Calculator
+python
+Copy code
+print("****** Welcome to the ISHOP Calculator ******")
+
+item_count = int(input("How many items are in your basket? "))
+
+basket = []
+costs = []
+
+for i in range(1, item_count + 1):
+    name = input(f"Name of item {i}: ")
+    price = int(input(f"Price of {name}: "))
+    basket.append(name)
+    costs.append(price)
+
+if input("Show basket items? (yes/no): ").lower() == "yes":
+    print(basket)
+
+if input("Show total cost? (yes/no): ").lower() == "yes":
+    print(sum(costs))
+📊 GitHub Stats
+Replace USERNAME with your GitHub username.
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true" /> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact" /> </p>
+🌐 Connect With Me
+<p align="center"> <a href="https://linkedin.com/in/omar-eprahim-9b0a3a38a"><img src="https://img.icons8.com/color/32/000000/linkedin.png"/></a> </p>
+<p align="center">⭐️ Always learning. Always improving.</p> ```
